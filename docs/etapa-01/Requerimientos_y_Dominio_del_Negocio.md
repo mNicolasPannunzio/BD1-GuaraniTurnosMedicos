@@ -21,7 +21,3 @@ A continuación, se detallan las **reglas formales que rigen la lógica operativ
 * 📏*RN6* - Cada turno médico reservado debe quedar registrado indicando su código único, fecha, hora, paciente, médico asignado, especialidad y obra social.  
 * 📏*RN7* - Un paciente puede reservar y gestionar uno o varios turnos médicos en el sistema. 
 * 📏*RN8* - Un médico puede tener múltiples turnos asignados en su cronograma diario y atiende en un consultorio físico específico.  
-* 📏*RN9* - La duración estándar de las consultas médicas en la agenda debe configurarse en un rango válido de entre 5 y 60 minutos.  
-* 📏*RN10* - La cancelación de un turno programado solo está permitida si se realiza con un mínimo de 2 horas de anticipación al horario estipulado de inicio.  
-* 📏*RN11* - Un paciente cuyo turno fue cancelado ingresa automáticamente a una lista de espera asociada a la especialidad requerida.  
-* 📏*RN12* - Un turno médico cambia su estado automáticamente a "Ausente" si el paciente no se presenta en la recepción tras finalizar el horario de tolerancia estipulado. 
