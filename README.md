@@ -10,6 +10,7 @@
 * **Pannunzio, Mario Nicolas** — *DNI: 43.825.227*
 * **Perone, Tiziano** — *DNI: 46.724.743*
 
+* **Romero, Enzo** — *DNI: 41.948.148*
 ---
 
 ## 📌 DESCRIPCIÓN DEL PROYECTO
