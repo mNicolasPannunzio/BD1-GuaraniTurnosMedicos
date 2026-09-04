@@ -9,7 +9,7 @@
 * **Obregón, Adrián Jesús** — *DNI: 45.456.141*
 * **Pannunzio, Mario Nicolas** — *DNI: 43.825.227*
 * **Perone, Tiziano** — *DNI: 46.724.743*
-
+* **Navarro, Luciano de Jesus** — *DNI: 44.683.191*
 * **Romero, Enzo** — *DNI: 41.948.148*
 ---
 
